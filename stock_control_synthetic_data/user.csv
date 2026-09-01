@@ -1,0 +1,13 @@
+user_id,business_id,name,email,password_hash,role,active,created_at
+1,1,Ashley Garrett,ericfarmer@example.net,beae37ac789535f7cee792493bc81f78c9400a22f73183e6c8e5cca9ce50cfdd,admin,True,2024-05-30 00:00:00
+2,1,Tamara George,xsmith@example.com,399d30176e2afc4addb2357767cce2f5266f2b9758539adaca7c8fe08bafc022,cashier,True,2024-05-16 00:00:00
+3,1,Keith Miller,wcabrera@example.net,6053caa0671d142ad95def02ecb4314fca9edb3e01bbfd8c9c07cc5ebd177539,manager,True,2024-05-23 00:00:00
+4,1,John Pierce,allison96@example.org,215e10fcd56d8f84a4647be5e5e5033754a80a52fed17351305f5e0fec344867,admin,True,2024-04-18 00:00:00
+5,1,Melissa Marquez,pcarney@example.com,6182c7a370c24c7062360d6cd75b9cf98be1b92b4456698accd326c136bf68f8,stock_clerk,True,2024-05-26 00:00:00
+6,1,Barbara Walker,andrew83@example.net,20a0ccbef273b8e890efdae5f523a8ccd718e5b6a96d465bd77772ad0d43b29a,stock_clerk,True,2024-05-04 00:00:00
+7,1,Mark Perez,heathchad@example.org,a8ca1955a30ac44010455b2482310e49b0b4ecc6d4bcd200277604c33699f0af,admin,True,2024-05-30 00:00:00
+8,1,Mr. Nathaniel Khan,esanchez@example.com,8111b62d5150f0ec6dc6a65e87fa1f3e8edcb094d842ab4d6dbb0a06e5b152bc,admin,True,2024-05-18 00:00:00
+9,1,Jeffrey Henderson,dshields@example.net,ae2923bf1cee772f3fb882b9a63008212ba2a8d8082e90fb8ca0edaf18122ff9,stock_clerk,True,2024-04-23 00:00:00
+10,1,Amy Chandler,wrightjames@example.com,75d4e0c6c0db3362588190649227d8259c592e91698d9ed289a1173e91b00613,admin,True,2024-04-26 00:00:00
+11,1,Joel Baxter,ramosmichelle@example.net,fd2dd57fc13de88607fd0c2173856eb61947cfec1eb14195b8f53de07047513c,stock_clerk,True,2024-05-05 00:00:00
+12,1,Kimberly Smith,housemelinda@example.org,830c6b6de93c1482a3119348da32682800b0a228bf6b942e642b2934093979bf,manager,True,2024-05-03 00:00:00

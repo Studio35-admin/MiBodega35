@@ -1,0 +1,61 @@
+product_id,business_id,sku,name,description,category_id,manufacturer_id,unit_price,unit,active,created_at
+1,1,SKU-010001,Cola 500ml,Cola 500ml - standard retail unit,1,2,0.92,unit,True,2024-03-08 00:00:00
+2,1,SKU-010002,Orange Juice 1L,Orange Juice 1L - standard retail unit,1,6,2.11,unit,True,2024-05-21 00:00:00
+3,1,SKU-010003,Mineral Water 600ml,Mineral Water 600ml - standard retail unit,1,6,2.27,unit,True,2024-04-13 00:00:00
+4,1,SKU-010004,Iced Tea 500ml,Iced Tea 500ml - standard retail unit,1,5,1.57,unit,True,2024-04-15 00:00:00
+5,1,SKU-010005,Energy Drink 250ml,Energy Drink 250ml - standard retail unit,1,6,1.43,unit,True,2024-05-05 00:00:00
+6,1,SKU-010006,Sparkling Water 1L,Sparkling Water 1L - standard retail unit,1,2,1.25,unit,True,2024-03-05 00:00:00
+7,1,SKU-010007,Lemonade 500ml,Lemonade 500ml - standard retail unit,1,2,0.92,unit,True,2024-03-11 00:00:00
+8,1,SKU-010008,Coffee Drink 300ml,Coffee Drink 300ml - standard retail unit,1,6,1.71,unit,True,2024-04-30 00:00:00
+9,1,SKU-010009,Sports Drink 500ml,Sports Drink 500ml - standard retail unit,1,6,1.59,unit,True,2024-04-27 00:00:00
+10,1,SKU-010010,Milk 1L,Milk 1L - standard retail unit,1,2,1.97,unit,True,2024-05-03 00:00:00
+11,1,SKU-020011,Potato Chips 150g,Potato Chips 150g - standard retail unit,2,6,2.55,unit,True,2024-04-21 00:00:00
+12,1,SKU-020012,Chocolate Bar 50g,Chocolate Bar 50g - standard retail unit,2,7,1.17,unit,True,2024-05-04 00:00:00
+13,1,SKU-020013,Cookies Pack 200g,Cookies Pack 200g - standard retail unit,2,1,2.69,unit,True,2024-04-21 00:00:00
+14,1,SKU-020014,Peanuts 100g,Peanuts 100g - standard retail unit,2,6,2.14,unit,True,2024-04-11 00:00:00
+15,1,SKU-020015,Popcorn 100g,Popcorn 100g - standard retail unit,2,1,1.65,unit,True,2024-04-28 00:00:00
+16,1,SKU-020016,Crackers 150g,Crackers 150g - standard retail unit,2,6,1.12,unit,True,2024-03-21 00:00:00
+17,1,SKU-020017,Granola Bar,Granola Bar - standard retail unit,2,1,1.16,unit,True,2024-03-18 00:00:00
+18,1,SKU-020018,Trail Mix 200g,Trail Mix 200g - standard retail unit,2,7,2.74,unit,True,2024-04-10 00:00:00
+19,1,SKU-020019,Pretzels 150g,Pretzels 150g - standard retail unit,2,7,1.05,unit,True,2024-05-14 00:00:00
+20,1,SKU-020020,Candy Pack,Candy Pack - standard retail unit,2,1,1.73,unit,True,2024-05-25 00:00:00
+21,1,SKU-030021,Electric Kettle,Electric Kettle - standard retail unit,3,2,74.41,unit,True,2024-04-07 00:00:00
+22,1,SKU-030022,Toaster 2-Slice,Toaster 2-Slice - standard retail unit,3,6,19.76,unit,True,2024-04-13 00:00:00
+23,1,SKU-030023,Blender 500W,Blender 500W - standard retail unit,3,6,89.71,unit,True,2024-03-25 00:00:00
+24,1,SKU-030024,Hand Mixer,Hand Mixer - standard retail unit,3,8,87.83,unit,True,2024-05-30 00:00:00
+25,1,SKU-030025,Rice Cooker,Rice Cooker - standard retail unit,3,6,69.05,unit,True,2024-03-05 00:00:00
+26,1,SKU-030026,Iron Steam,Iron Steam - standard retail unit,3,6,71.32,unit,True,2024-03-10 00:00:00
+27,1,SKU-030027,Vacuum Cleaner Mini,Vacuum Cleaner Mini - standard retail unit,3,8,23.37,unit,True,2024-04-06 00:00:00
+28,1,SKU-030028,Fan Table,Fan Table - standard retail unit,3,2,49.03,unit,True,2024-04-28 00:00:00
+29,1,SKU-030029,Coffee Maker,Coffee Maker - standard retail unit,3,6,72.15,unit,True,2024-03-28 00:00:00
+30,1,SKU-030030,Microwave Oven,Microwave Oven - standard retail unit,3,2,80.29,unit,True,2024-04-23 00:00:00
+31,1,SKU-040031,Shampoo 400ml,Shampoo 400ml - standard retail unit,4,4,5.01,unit,True,2024-03-25 00:00:00
+32,1,SKU-040032,Toothpaste 100g,Toothpaste 100g - standard retail unit,4,4,5.39,unit,True,2024-03-30 00:00:00
+33,1,SKU-040033,Soap Bar,Soap Bar - standard retail unit,4,4,2.23,unit,True,2024-04-15 00:00:00
+34,1,SKU-040034,Deodorant Spray,Deodorant Spray - standard retail unit,4,2,3.06,unit,True,2024-05-01 00:00:00
+35,1,SKU-040035,Body Lotion 250ml,Body Lotion 250ml - standard retail unit,4,3,7.66,unit,True,2024-05-21 00:00:00
+36,1,SKU-040036,Razor Pack,Razor Pack - standard retail unit,4,3,4.66,unit,True,2024-05-23 00:00:00
+37,1,SKU-040037,Hand Sanitizer 250ml,Hand Sanitizer 250ml - standard retail unit,4,3,6.48,unit,True,2024-05-15 00:00:00
+38,1,SKU-040038,Sunscreen 100ml,Sunscreen 100ml - standard retail unit,4,3,4.59,unit,True,2024-03-22 00:00:00
+39,1,SKU-040039,Facial Tissue,Facial Tissue - standard retail unit,4,4,3.22,unit,True,2024-03-15 00:00:00
+40,1,SKU-040040,Cotton Swabs,Cotton Swabs - standard retail unit,4,2,7.77,unit,True,2024-03-23 00:00:00
+41,1,SKU-050041,Dish Soap 750ml,Dish Soap 750ml - standard retail unit,5,6,5.98,unit,True,2024-03-09 00:00:00
+42,1,SKU-050042,Laundry Detergent 1kg,Laundry Detergent 1kg - standard retail unit,5,6,3.19,unit,True,2024-03-26 00:00:00
+43,1,SKU-050043,Glass Cleaner 500ml,Glass Cleaner 500ml - standard retail unit,5,6,1.61,unit,True,2024-05-03 00:00:00
+44,1,SKU-050044,Bleach 1L,Bleach 1L - standard retail unit,5,4,2.69,unit,True,2024-03-17 00:00:00
+45,1,SKU-050045,Floor Cleaner 1L,Floor Cleaner 1L - standard retail unit,5,3,2.15,unit,True,2024-05-03 00:00:00
+46,1,SKU-050046,Sponge Pack,Sponge Pack - standard retail unit,5,4,1.35,unit,True,2024-03-12 00:00:00
+47,1,SKU-050047,Trash Bags 30ct,Trash Bags 30ct - standard retail unit,5,4,2.14,unit,True,2024-05-27 00:00:00
+48,1,SKU-050048,Air Freshener,Air Freshener - standard retail unit,5,6,1.35,unit,True,2024-05-01 00:00:00
+49,1,SKU-050049,Fabric Softener 1L,Fabric Softener 1L - standard retail unit,5,6,4.34,unit,True,2024-05-04 00:00:00
+50,1,SKU-050050,All-Purpose Cleaner,All-Purpose Cleaner - standard retail unit,5,3,1.66,unit,True,2024-03-19 00:00:00
+51,1,SKU-060051,Notebook A4,Notebook A4 - standard retail unit,6,2,1.19,unit,True,2024-05-19 00:00:00
+52,1,SKU-060052,Ballpoint Pen Pack,Ballpoint Pen Pack - standard retail unit,6,4,2.33,unit,True,2024-04-07 00:00:00
+53,1,SKU-060053,Pencil Pack,Pencil Pack - standard retail unit,6,2,2.5,unit,True,2024-05-25 00:00:00
+54,1,SKU-060054,Sticky Notes,Sticky Notes - standard retail unit,6,4,3.37,unit,True,2024-03-10 00:00:00
+55,1,SKU-060055,Stapler,Stapler - standard retail unit,6,8,0.58,unit,True,2024-04-18 00:00:00
+56,1,SKU-060056,Folder Pack,Folder Pack - standard retail unit,6,8,1.47,unit,True,2024-05-07 00:00:00
+57,1,SKU-060057,Highlighter Set,Highlighter Set - standard retail unit,6,4,2.41,unit,True,2024-04-07 00:00:00
+58,1,SKU-060058,Envelope Pack,Envelope Pack - standard retail unit,6,8,1.61,unit,True,2024-04-30 00:00:00
+59,1,SKU-060059,Printer Paper Ream,Printer Paper Ream - standard retail unit,6,8,2.38,unit,True,2024-03-22 00:00:00
+60,1,SKU-060060,Marker Set,Marker Set - standard retail unit,6,8,0.54,unit,True,2024-03-23 00:00:00

@@ -1,0 +1,5 @@
+store_id,business_id,name,adress,phone,created_at,active
+1,1,Flagship Centro,"Av. 10 de Agosto 123, Quito",022345678,2024-05-05 09:00:00,True
+2,1,Mall El Bosque,"C.C. El Bosque, Local 45, Quito",022345679,2024-05-10 09:00:00,True
+3,1,Suburban Branch - Calderon,"Av. Geovanny Calles, Calderon",022345680,2024-05-15 09:00:00,True
+4,1,Kiosk San Roque,"Mercado San Roque, Quito",022345681,2024-05-20 09:00:00,True
